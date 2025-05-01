@@ -1,0 +1,1 @@
+from diffuser.ogb_task.og_inv_dyn.og_invdyn_model import MLP_InvDyn_OgB_V3

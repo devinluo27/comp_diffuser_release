@@ -1,0 +1,1 @@
+from diffuser.ogb_task.ogb_maze_v1.ogb_stgl_sml_training_v1 import OgB_Stgl_Sml_Trainer_v1

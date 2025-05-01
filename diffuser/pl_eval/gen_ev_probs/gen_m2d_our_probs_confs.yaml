@@ -1,0 +1,39 @@
+
+maze2d_lg_ev_prob_bt2way_nppp3:
+  
+  seed_u: 0
+  el_name: 'maze2d-large-v1'
+  prob_type: bottom_top_2way
+  n_probs_per_pair: 3
+  r_pos_range: [-0.3, 0.3]
+
+maze2d_lg_ev_prob_bt2way_nppp3_rprange02:
+  
+  seed_u: 0
+  el_name: 'maze2d-large-v1'
+  prob_type: bottom_top_2way
+  n_probs_per_pair: 3
+  r_pos_range: [-0.2, 0.2]
+
+
+## ------- Luotest -------
+maze2d_lg_ev_prob_luotest:
+  
+  seed_u: 0
+  el_name: 'maze2d-large-v1'
+  prob_type: bottom_top_2way
+  n_probs_per_pair: 3
+  r_pos_range: [-0.3, 0.3]
+
+
+maze2d_lg_ev_prob_luotest_2:
+  
+  seed_u: 0
+  el_name: 'maze2d-large-v1'
+  prob_type: bottom_top_2way
+  n_probs_per_pair: 3
+  r_pos_range: [-0.3, 0.3]
+
+
+
+

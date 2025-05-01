@@ -1,0 +1,1 @@
+Files within this folder is not used for setting up the the OGBench env. But they might be helpful for creating conda env for d4rl. Just for reference proposes.

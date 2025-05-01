@@ -1,0 +1,1 @@
+from .render_m2d import Maze2dRenderer_V2
