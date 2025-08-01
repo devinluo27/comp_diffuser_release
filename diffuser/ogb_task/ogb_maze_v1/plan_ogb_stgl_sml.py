@@ -637,7 +637,8 @@ if __name__ == '__main__':
         
         ## Point Maze Giant
         if 'giant' in args.dataset:
-            args.ev_n_comp = 9
+            # args.ev_n_comp = 9
+            args.ev_n_comp = 8
             
             # args.ev_cp_infer_t_type = 'same_t' ## parallel
             args.ev_cp_infer_t_type = 'interleave' ## default
